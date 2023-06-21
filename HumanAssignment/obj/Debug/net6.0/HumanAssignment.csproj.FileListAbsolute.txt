@@ -1,0 +1,15 @@
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\bin\Debug\net6.0\HumanAssignment.exe
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\bin\Debug\net6.0\HumanAssignment.deps.json
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\bin\Debug\net6.0\HumanAssignment.runtimeconfig.json
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\bin\Debug\net6.0\HumanAssignment.dll
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\bin\Debug\net6.0\HumanAssignment.pdb
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\obj\Debug\net6.0\HumanAssignment.csproj.AssemblyReference.cache
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\obj\Debug\net6.0\HumanAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\obj\Debug\net6.0\HumanAssignment.AssemblyInfoInputs.cache
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\obj\Debug\net6.0\HumanAssignment.AssemblyInfo.cs
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\obj\Debug\net6.0\HumanAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\obj\Debug\net6.0\HumanAssignment.dll
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\obj\Debug\net6.0\refint\HumanAssignment.dll
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\obj\Debug\net6.0\HumanAssignment.pdb
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\obj\Debug\net6.0\HumanAssignment.genruntimeconfig.cache
+C:\Users\Kachi\Desktop\Backend Dev\UnderstandingOOP2\HumanAssignment\obj\Debug\net6.0\ref\HumanAssignment.dll
